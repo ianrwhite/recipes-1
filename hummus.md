@@ -1,7 +1,10 @@
 # Ingredients
 
 - chickpeas
-- lime
+- lemon juice
 - garlic
+- tahini
+- salt
+- olive oil
 
 # steps
